@@ -15,6 +15,13 @@ nav {
   text-align: right;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
+}
+
 nav a {
   font-size: 1.8rem;
   font-weight: bold;
